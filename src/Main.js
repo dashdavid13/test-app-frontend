@@ -3,12 +3,12 @@ import './App.css';
 import Main from Main.js
 
 
-function App() {
+function Main() {
   return (
     <div className="App">
-     <Main />
+     <h1></h1>
     </div>
   );
 }
 
-export default App;
+export default Main;
